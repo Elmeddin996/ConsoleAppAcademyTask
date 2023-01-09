@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\AcademyCreatTask\AcademyCreatTask\obj\Debug\net6.0\AcademyCreatTask.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\AcademyCreatTask\AcademyCreatTask\obj\Debug\net6.0\AcademyCreatTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\AcademyCreatTask\AcademyCreatTask\obj\Debug\net6.0\AcademyCreatTask.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\AcademyCreatTask\AcademyCreatTask\obj\Debug\net6.0\AcademyCreatTask.AssemblyInfo.cs
+C:\Users\User\source\repos\AcademyCreatTask\AcademyCreatTask\obj\Debug\net6.0\AcademyCreatTask.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AcademyCreatTask\AcademyCreatTask\bin\Debug\net6.0\AcademyCreatTask.exe
+C:\Users\User\source\repos\AcademyCreatTask\AcademyCreatTask\bin\Debug\net6.0\AcademyCreatTask.deps.json
+C:\Users\User\source\repos\AcademyCreatTask\AcademyCreatTask\bin\Debug\net6.0\AcademyCreatTask.runtimeconfig.json
+C:\Users\User\source\repos\AcademyCreatTask\AcademyCreatTask\bin\Debug\net6.0\AcademyCreatTask.dll
+C:\Users\User\source\repos\AcademyCreatTask\AcademyCreatTask\bin\Debug\net6.0\AcademyCreatTask.pdb
+C:\Users\User\source\repos\AcademyCreatTask\AcademyCreatTask\obj\Debug\net6.0\AcademyCreatTask.dll
+C:\Users\User\source\repos\AcademyCreatTask\AcademyCreatTask\obj\Debug\net6.0\refint\AcademyCreatTask.dll
+C:\Users\User\source\repos\AcademyCreatTask\AcademyCreatTask\obj\Debug\net6.0\AcademyCreatTask.pdb
+C:\Users\User\source\repos\AcademyCreatTask\AcademyCreatTask\obj\Debug\net6.0\AcademyCreatTask.genruntimeconfig.cache
+C:\Users\User\source\repos\AcademyCreatTask\AcademyCreatTask\obj\Debug\net6.0\ref\AcademyCreatTask.dll
